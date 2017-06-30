@@ -48,6 +48,9 @@ $(document).ready(function() {
             { src: 'assets/images/hero/hero-6.jpg' },
             { src: 'assets/images/hero/hero-7.jpg' },
             { src: 'assets/images/hero/hero-8.jpg' }
+            { src: 'assets/images/hero/hero-9.jpg' }
+            { src: 'assets/images/hero/hero-10.jpg' }
+            { src: 'assets/images/hero/hero-11.jpg' }
         ]
     });
     

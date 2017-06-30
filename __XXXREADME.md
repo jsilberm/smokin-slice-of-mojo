@@ -1,1 +1,0 @@
-# smokin-slice-of-mojo
