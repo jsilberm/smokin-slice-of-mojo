@@ -41,7 +41,7 @@ $(document).ready(function() {
         transitionDuration: 3000,
         slides: [
             { src: 'assets/images/hero/hero-1.jpg' },
-            { src: 'assets/images/hero/hero-2.jpg' },
+            { src: 'assets/images/hero/Jerome3.jpg' },
             { src: 'assets/images/hero/hero-3.jpg' },
             { src: 'assets/images/hero/hero-4.jpg' },
             { src: 'assets/images/hero/hero-5.jpg' },
