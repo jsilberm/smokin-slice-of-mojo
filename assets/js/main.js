@@ -49,7 +49,7 @@ $(document).ready(function() {
             { src: 'assets/images/hero/hero-7.jpg' },
             { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/fd.jpg' },
-            { src: 'assets/images/hero/hero-11.jpg' }
+            { src: 'assets/images/hero/gomez5.jpg' }
         ]
     });
     
