@@ -42,7 +42,7 @@ $(document).ready(function() {
         slides: [
             { src: 'assets/images/hero/hero-1.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
-            { src: 'assets/images/hero/gomez3.jpg' },
+            { src: 'assets/images/hero/gomez4.jpg' },
             { src: 'assets/images/hero/hero-4.jpg' },
             { src: 'assets/images/hero/hero-5.jpg' },
             { src: 'assets/images/hero/grich2.jpg' },
