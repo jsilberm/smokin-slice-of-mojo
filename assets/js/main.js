@@ -47,7 +47,7 @@ $(document).ready(function() {
             { src: 'assets/images/hero/hero-5.jpg' },
             { src: 'assets/images/hero/grich1.jpg' },
             { src: 'assets/images/hero/hero-7.jpg' },
-            { src: 'assets/images/hero/see_cindy_sing.jpg' },
+            { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/hero-9.jpg' },
             { src: 'assets/images/hero/fd.jpg' },
             { src: 'assets/images/hero/hero-11.jpg' }
