@@ -38,7 +38,7 @@ $(document).ready(function() {
         overlay: 'assets/plugins/vegas/dist/overlays/06.png',
         color: '#101113',
         transition: 'zoomOut',
-        transitionDuration: 3000,
+        transitionDuration: 4000,
         slides: [
             { src: 'assets/images/hero/hero-1.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
