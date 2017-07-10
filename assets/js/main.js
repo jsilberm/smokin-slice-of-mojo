@@ -40,15 +40,15 @@ $(document).ready(function() {
         transition: 'zoomOut',
         transitionDuration: 3000,
         slides: [
-            { src: 'assets/images/hero/hero-1.jpg' },
+            { src: 'assets/images/hero/hero-7.jpg' },
+            { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
+            { src: 'assets/images/hero/hero-1.jpg' },
+            { src: 'assets/images/hero/fd.jpg' },
             { src: 'assets/images/hero/gomez4.jpg' },
             { src: 'assets/images/hero/hero-4.jpg' },
             { src: 'assets/images/hero/hero-5.jpg' },
             { src: 'assets/images/hero/grich2.jpg' },
-            { src: 'assets/images/hero/hero-7.jpg' },
-            { src: 'assets/images/hero/cindy_sings.jpg' },
-            { src: 'assets/images/hero/fd.jpg' },
             { src: 'assets/images/hero/gomez5.jpg' }
         ]
     });
