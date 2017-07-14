@@ -34,7 +34,7 @@ $(document).ready(function() {
 	/* ======= Vegas Plugin ======= */
     /* Ref: http://vegas.jaysalvat.com/index.html */
     $('#promo').vegas({
-        delay: 0,
+        delay: 2000,
         overlay: 'assets/plugins/vegas/dist/overlays/06.png',
         color: '#101113',
         transition: 'zoomOut',
