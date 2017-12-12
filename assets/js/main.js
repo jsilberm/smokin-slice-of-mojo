@@ -41,6 +41,7 @@ $(document).ready(function() {
         transitionDuration: 2000,
         slides: [
             { src: 'assets/images/hero/hero-7.jpg' },
+            { src: 'assets/images/members/Band_Montalvo.png' },
             { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
             { src: 'assets/images/hero/hero-1.jpg' },
