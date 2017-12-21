@@ -38,10 +38,10 @@ $(document).ready(function() {
         overlay: 'assets/plugins/vegas/dist/overlays/06.png',
         color: '#101113',
         transition: 'zoomOut',
-        transitionDuration: 2000,
+        transitionDuration: 2500,
         slides: [
-            { src: 'assets/images/members/Band_Belmont.png' },
             { src: 'assets/images/members/Band_Montalvo.png' },
+            { src: 'assets/images/members/Band_Belmont.png' },
             { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
             { src: 'assets/images/hero/hero-1.jpg' },
