@@ -41,11 +41,11 @@ $(document).ready(function() {
         transitionDuration: 2500,
         slides: [
             { src: 'assets/images/members/Band_Montalvo.png' },
+	    { src: 'assets/images/MojoBandCats.jpg' },
             { src: 'assets/images/members/Band_Belmont.png' },
             { src: 'assets/images/hero/cindy_sings.jpg' },
             { src: 'assets/images/hero/Jerome3.jpg' },
 	    { src: 'assets/images/Mojo_at_the_Cats.jpg' },
-            { src: 'assets/images/hero/hero-1.jpg' },
             { src: 'assets/images/hero/fd.jpg' },
             { src: 'assets/images/hero/gomez4.jpg' },
             { src: 'assets/images/hero/hero-4.jpg' },
