@@ -1,2 +1,1 @@
-# smokin-slice-of-mojo
-[The Smokin Slice of Mojo](http://smokinsliceofmojo.com)
+# [The Smokin Slice of Mojo](http://smokinsliceofmojo.com)
